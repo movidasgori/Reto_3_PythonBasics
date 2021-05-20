@@ -84,7 +84,7 @@ def restaurante():
 
         print("Total a pagar: %d€" % TOT)
 
-    # (2)
+# (2)
 
     # Pedido no encontrado
     else:
