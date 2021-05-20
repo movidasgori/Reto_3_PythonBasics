@@ -83,6 +83,7 @@ def restaurante():
             TOT = TOT + int(CARTA.get(key))
 
         print("Total a pagar: %d€" % TOT)
+
     # (2)
 
     # Pedido no encontrado
